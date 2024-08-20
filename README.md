@@ -6,4 +6,4 @@
 - 💬 Ask me about backend development, TypeScript, NestJs and modern JavaScript frameworks.
 - 📫 How to reach me: dongpfiev2014@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Complexity resolved is simplicity.
+- ⚡ Fun fact: Simplicity is complexity resolved.
